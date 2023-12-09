@@ -7,14 +7,13 @@
     --oceancolor: #404BBF;
     --whitecolor: white;
     --slatecolor: #434455;
-
 }
 
 .link-logo {
     text-decoration: none;
     font-family: 'Raleway', sans-serif;
     font-size: 18px;
-    line-height: 21px;
+    line-height: 1.5;
 }
 
 .web-logo{
@@ -29,7 +28,11 @@
 .studio-logo2{
     color: white;
 }
-    
+
+.studio-logo3{
+    color: white;
+}
+
 .navbar .pages{
     color: var(--navcolor);
     text-decoration: none;
@@ -51,14 +54,15 @@
     color: var(--oceancolor);
 }
 
-.contact-info .info{
+.contact-info .info {
     color: var(--navcolor);
     font-weight: 500;
     font-size: 16px;
     line-height: 24px;
     letter-spacing: 0.32px;
     text-decoration: none;
-    }
+    font-family: inherit;
+ }
 
 .bg-section1 {
     background-color: var(--navyblue);
@@ -96,7 +100,7 @@
 .desclist.titlelist {
     font-weight: 800;
     font-size: 16px;
-    line-height: 1.5;
+    line-height: 1;
     color: var(--slatecolor);
 }
 
@@ -129,6 +133,5 @@
 .lastword{
     color: white;
     width:  265px;
-    height: 75px;
-    font-family: inheret;
+    height: 70px;
 }
