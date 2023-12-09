@@ -22,19 +22,25 @@
 .web-logo{
    color: var(--iriscolor);
    font-weight: 800;
+   text-transform: uppercase;
 }
 
 .studio-logo{
     color: var(--navyblue)
     font-weight: 800;
+    text-transform: uppercase;
 }
 
 .studio-logo2{
     color: white;
+    text-transform: uppercase;
+    font-weight: 800;
 }
 
 .studio-logo3{
     color: white;
+    font-weight: 800;
+    text-transform: uppercase;
 }
 
 .navbar .pages{
