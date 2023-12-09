@@ -50,9 +50,7 @@
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.32px;
-    letter-spacing: 0.02em;
-    font-family: 'Roboto';
-}
+
 
 .body{
     font-family: "Roboto", sans-serif;
@@ -65,7 +63,7 @@
 }
 .lists{
     list-style-type: none; 
-    font-family: 'Roboto';
+
 }
 
 .navbar .pages:hover,
@@ -85,7 +83,6 @@
     text-decoration: none;
     font-family: inherit;
     font-style:normal;
-    font-family: 'Roboto';
  }
 
 .bg-section1 {
@@ -99,7 +96,6 @@
     line-height: 1.5;
     text-align: center;
     letter-spacing: 0.05em;
-    font-family: 'Roboto';
 }
 
 .btn{
