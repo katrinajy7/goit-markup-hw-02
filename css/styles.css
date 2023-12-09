@@ -23,6 +23,7 @@
 
 .studio-logo{
     color: var(--navyblue)
+    font-weight: 800;
 }
 
 .studio-logo2{
@@ -138,4 +139,26 @@
 
 .pictures{
     text-decoration: none;
+}
+
+.pictures .parentlist{
+    color: var(--navyblue);
+    font-family: Roboto;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.4px;
+    text-decoration: none;
+}
+
+pictures.childlist{
+    color: var(--slatecolor);
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.32px;
+
 }
