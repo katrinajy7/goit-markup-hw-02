@@ -9,7 +9,7 @@
     --slatecolor: #434455;
 }
 
-/* .link-logo {
+.link-logo {
     text-decoration: none;
     font-family: "Raleway", sans-serif;
     font-size: 18px;
@@ -17,7 +17,7 @@
     font-weight: 800;
     letter-spacing: 0.03em;
     text-transform:uppercase;
-} */
+}
 
 /* .web-logo {
    color: var(--iriscolor);
