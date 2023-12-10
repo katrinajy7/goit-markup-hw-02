@@ -51,7 +51,7 @@
     text-transform: uppercase;
 }
 
-/* .link-logos {
+.link-logos {
     color: var(--iriscolor);
     text-decoration: none;
     font-family: "Raleway", sans-serif;
@@ -61,7 +61,7 @@
     letter-spacing: 0.03em;
     text-transform: uppercase;
 
-}    */
+}   
 
 .studio-logos {
     color: #f4f4fd;
