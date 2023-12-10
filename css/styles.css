@@ -122,9 +122,16 @@
     letter-spacing: 0.32px;   
 } */
 
-.lists{
-    list-style-type: none; 
-}
+/* .list-section.lists {
+    list-style-type: none;
+    font-weight: 500;
+    font-size: 20px ;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+
+
+} */
 
 contact-info.info {
     color: var(--navcolor);
@@ -191,12 +198,28 @@ contact-info.info {
     background-color: var(--oceancolor);
     color: var(--whitecolor);
 }
-.desclist.titlelist {
-    font-weight: 800;
-    font-size: 16px;
-    line-height: 1;
+
+/* .desclist.titlelist {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
     color: var(--slatecolor);
 
+} */
+
+.list.titlelist {
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.disclist {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
 }
 
 .sectiontitle{
