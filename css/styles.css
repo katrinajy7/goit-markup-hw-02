@@ -162,12 +162,13 @@ contact-info.info {
 }
 
 .btn.primary{
-    background-color: var(--oceancolor);
+    background-color: #4D5AE5;
     color: var(--whitecolor);
     font-weight: 500;
     line-height:1.5;
     letter-spacing: 0.04em;
     font-size: 16px;
+    font-family: inherit;
 }   
 
 .btn.primary:hover,
