@@ -41,7 +41,7 @@
 }
 
 .studio-logos {
-    color: var(--ghostwhite);
+    color: #f4f4fd;
     text-transform: uppercase;
     font-weight: 800;
     text-decoration: none;
@@ -53,7 +53,7 @@
 }
 
 .studio-logos {
-    color: var(--ghostwhite);
+    color: #f4f4fd;
     font-weight: 800;
     text-transform: uppercase;
     text-decoration: none;
