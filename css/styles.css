@@ -2,7 +2,7 @@
 
 :root {
     --iriscolor: #4d5ae5; 
-    --navyblue: #2e2f42; 
+    --navyblue: #2e2f42;
     --navcolor: #434455;
     --oceancolor: #404BBF;
     --whitecolor: #FFFFFF;
@@ -10,6 +10,7 @@
 }
 
 .link-logo {
+    color: var(--iriscolor)
     text-decoration: none;
     font-family: "Raleway", sans-serif;
     font-size: 18px;
@@ -19,15 +20,15 @@
     text-transform:uppercase;
 }
 
-.link-logo {
+/* .link-logo {
    color: var(--iriscolor);
    font-weight: 800;
    text-transform: uppercase;
    text-decoration: none;
-}
+} */
 
 .studio-logo {
-    color: var(--iriscolor);
+    color: var(--navyblue);
     font-weight: 800;
     text-transform: uppercase;
     text-decoration: none;
@@ -39,15 +40,27 @@
 }
 
 .studio-logo2 {
-    color: var(--iriscolor);
+    color: var(--navyblue);
     text-transform: uppercase;
     font-weight: 800;
+    text-decoration: none;
+    font-family: "Raleway", sans-serif;
+    font-size: 18px;
+    line-height: 1.17;
+    font-weight: 800;
+    letter-spacing: 0.03em;
 }
 
 .studio-logo3{
-    color: var(--iriscolor);
+    color: var(--navyblue);
     font-weight: 800;
     text-transform: uppercase;
+    text-decoration: none;
+    font-family: "Raleway", sans-serif;
+    font-size: 18px;
+    line-height: 1.17;
+    font-weight: 800;
+    letter-spacing: 0.03em;
 }
 
 .navbar.pages{
