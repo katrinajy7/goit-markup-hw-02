@@ -19,17 +19,17 @@
     text-transform:uppercase;
 }
 
-.web-logo{
+/* .web-logo{
    color: var(--iriscolor);
    font-weight: 800;
-   text-transform: uppercase;
+   text-transform: uppercase; */
 }
 
-/* .studio-logo{
-    color: var(--navyblue);
+.studio-logo{
+    color: var(--iriscolor);
     font-weight: 800;
     text-transform: uppercase;
-} */
+}
 
 .studio-logo2{
     color: var(--whitecolor);
