@@ -51,7 +51,7 @@
     text-transform: uppercase;
 }
 
-.link-logos {
+/* .link-logos {
     color: var(--iriscolor);
     text-decoration: none;
     font-family: "Raleway", sans-serif;
@@ -61,7 +61,7 @@
     letter-spacing: 0.03em;
     text-transform: uppercase;
 
-}   
+}    */
 
 .studio-logos {
     color: #f4f4fd;
@@ -75,7 +75,7 @@
     letter-spacing: 0.03em;
 }
 
-.studio-logos {
+/* .studio-logos {
     color: #f4f4fd;
     font-weight: 800;
     text-transform: uppercase;
@@ -85,7 +85,7 @@
     line-height: 1.17;
     font-weight: 800;
     letter-spacing: 0.03em;
-}
+} */
 
 .navbar.pages{
     color: var(--navyblue);
