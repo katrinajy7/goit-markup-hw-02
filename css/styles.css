@@ -137,17 +137,21 @@ contact-info.info {
     text-decoration: none;
 }
 
-.bg-section1 {
+.bg-sectionone {
     background-color: var(--navyblue);
 }
  
 .one-title {
     color: var(--whitecolor);
-    font-size: 50px;
+    background-color: #4d5ae5;
+    font-size: 56px;
     font-weight: 800;
-    line-height: 1.5;
+    line-height: 1.07;
     text-align: center;
-    letter-spacing: 0.05em;
+    letter-spacing: 0.02em;
+    font-family: "Roboto", sans-serif;
+
+
 }
 
 .btn {
@@ -160,14 +164,15 @@ contact-info.info {
 .btn.primary{
     background-color: var(--oceancolor);
     color: var(--whitecolor);
-    font-weight: 800;
+    font-weight: 500;
     line-height:1.5;
-    letter-spacing: 0.05em;
+    letter-spacing: 0.04em;
+    font-size: 16px;
 }   
 
 .btn.primary:hover,
-.btb.primary:focus {
-    background-color: hotpink;
+.btn.primary:focus {
+    background-color: #404BBF;
 }
 
 .btn.filter {
