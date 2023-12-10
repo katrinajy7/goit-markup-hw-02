@@ -87,16 +87,30 @@
     letter-spacing: 0.03em;
 } */
 
-.navbar.lists.pages {
+.lists.pages {
     color: var(--navyblue);
     text-decoration: none;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-
 }
 
+.lists.pagescurrentoption {
+    font-size: 500;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    text-decoration: none;
+    color: var(--navyblue);
+}
+
+.navbar .pagescurrentoption:hover,
+.navbar .pages:focus,
+.navbar .pages.currentoption,
+.contact-info .info:hover,
+.contact-info .info:focus {
+    color: var(--oceancolor);
+}
 /* .bodies.info {
     font-family: "Roboto", sans-serif;
     background-color: var(--whitecolor);
@@ -110,26 +124,18 @@
 
 .lists{
     list-style-type: none; 
-
-}
-
-.navbar .pages:hover,
-.navbar .pages:focus,
-.navbar .pages.currentoption,
-.contact-info .info:hover,
-.contact-info .info:focus {
-    color: var(--oceancolor);
 }
 
 contact-info.info {
     color: var(--navcolor);
     font-weight: 500;
     font-size: 16px;
-    line-height: 24px;
+    line-height: 1.5;
     letter-spacing: 0.02em;
-    text-decoration: none;
     font-family: inherit;
-    font-style: none;
+    font-style: normal;
+    color: var(--navyblue);
+    text-decoration: none;
 }
 
 .bg-section1 {
