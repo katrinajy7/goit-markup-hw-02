@@ -207,6 +207,10 @@
 
 } */
 
+.listst{
+    text-decoration: none;
+}
+
 .criteria-list.titlelist {
     font-size: 20px;
     font-weight: 500;
