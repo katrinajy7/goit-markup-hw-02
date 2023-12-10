@@ -10,7 +10,7 @@
 }
 
 .link-logo {
-    color: var(--iriscolor)
+    color: #4d5ae5;
     text-decoration: none;
     font-family: "Raleway", sans-serif;
     font-size: 18px;
@@ -28,7 +28,7 @@
 } */
 
 .studio-logo {
-    color: var(--navyblue);
+    color: #2e2f42;
     font-weight: 800;
     text-transform: uppercase;
     text-decoration: none;
@@ -40,7 +40,7 @@
 }
 
 .studio-logo2 {
-    color: var(--navyblue);
+    color: #2e2f42;
     text-transform: uppercase;
     font-weight: 800;
     text-decoration: none;
@@ -52,7 +52,7 @@
 }
 
 .studio-logo3{
-    color: var(--navyblue);
+    color: #2e2f42;
     font-weight: 800;
     text-transform: uppercase;
     text-decoration: none;
