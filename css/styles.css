@@ -26,19 +26,19 @@
 }
 
 .studio-logo{
-    color: #4d5ae5;
+    color: var(--iriscolor);
     font-weight: 800;
     text-transform: uppercase;
 }
 
 .studio-logo2{
-    color: #4d5ae5;
+    color: var(--iriscolor);
     text-transform: uppercase;
     font-weight: 800;
 }
 
 .studio-logo3{
-    color: #4d5ae5;
+    color: var(--iriscolor);
     font-weight: 800;
     text-transform: uppercase;
 }
