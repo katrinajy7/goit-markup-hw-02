@@ -19,11 +19,12 @@
     text-transform:uppercase;
 }
 
-/* .web-logo {
+.link-logo {
    color: var(--iriscolor);
    font-weight: 800;
-   text-transform: uppercase; */
-
+   text-transform: uppercase;
+   text-decoration: none;
+}
 
 .studio-logo {
     color: var(--iriscolor);
@@ -37,8 +38,7 @@
     letter-spacing: 0.03em;
 }
 
-
-.studio-logo2{
+.studio-logo2 {
     color: var(--iriscolor);
     text-transform: uppercase;
     font-weight: 800;
