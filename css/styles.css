@@ -40,6 +40,29 @@
     letter-spacing: 0.03em;
 }
 
+.link-logos {
+    color: var(--iriscolor);
+    text-decoration: none;
+    font-family: "Raleway", sans-serif;
+    font-size: 18px;
+    line-height: 1.17;
+    font-weight: 800;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+}
+
+.link-logos {
+    color: var(--iriscolor);
+    text-decoration: none;
+    font-family: "Raleway", sans-serif;
+    font-size: 18px;
+    line-height: 1.17;
+    font-weight: 800;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+
+}   
+
 .studio-logos {
     color: #f4f4fd;
     text-transform: uppercase;
