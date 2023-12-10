@@ -32,13 +32,13 @@
 }
 
 .studio-logo2{
-    color: var(--whitecolor);
+    color: var(--navcolor);
     text-transform: uppercase;
     font-weight: 800;
 }
 
 .studio-logo3{
-    color: var(--whitecolor);
+    color: var(--navyblue);
     font-weight: 800;
     text-transform: uppercase;
 }
