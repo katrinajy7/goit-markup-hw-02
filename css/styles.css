@@ -221,7 +221,7 @@
     color: #434455;
 }
 
-.sectiontitle{
+.sectiontitle {
     text-align: center;
     color: var(--navyblue);
     font-size:36px;
@@ -229,11 +229,15 @@
     line-height: 1.11;
     letter-spacing: 0.02em;
     text-transform: capitalize;
+    
 }
 
 .teamname {
     color: var(--navyblue);
     font-weight: 500;
+    font-size: 20px;
+    letter-spacing: 0.02em;
+    background-color: #FFFFFF;
 }
 
 .position{
