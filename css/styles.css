@@ -25,11 +25,11 @@
    text-transform: uppercase;
 }
 
-.studio-logo{
+/* .studio-logo{
     color: var(--navyblue);
     font-weight: 800;
     text-transform: uppercase;
-}
+} */
 
 .studio-logo2{
     color: var(--whitecolor);
@@ -50,6 +50,7 @@
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.32px;
+
 }
 
 .body {
@@ -60,9 +61,9 @@
     font-style: normal;
     font-weight: 400;
     line-height: 24px;
-    letter-spacing: 0.32px;
-   
+    letter-spacing: 0.32px;   
 }
+
 .lists{
     list-style-type: none; 
 
