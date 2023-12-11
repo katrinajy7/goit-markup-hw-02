@@ -105,12 +105,12 @@
     color: var(--navyblue);
 }
 
-.navbar .pagescurrentoption:hover,
-.navbar .pages:focus,
-.navbar .pages.currentoption,
+.navbar .lists.pagescurrentoption:hover,
+.navbar .lists.pages:focus,
+.navbar .lists.pages.currentoption,
 .contact-info .info:hover,
 .contact-info .info:focus {
-    color: var(--oceancolor);
+    color: #404bbf); 
 }
 /* .bodies.info {
     font-family: "Roboto", sans-serif;
@@ -134,7 +134,7 @@
 
 } */
 
-.contact-info {
+.add.contact-info.info {
     color: var(--navcolor);
     font-weight: 500;
     font-size: 16px;
@@ -145,7 +145,7 @@
     text-decoration: none;
 }
 
-.info {
+/* .info {
     color: var(--navcolor);
     font-weight: 500;
     font-size: 16px;
@@ -154,7 +154,7 @@
     font-family: inherit;
     font-style: normal;
     text-decoration: none;
-}
+} */
 
 .bg-sectionone {
     background-color: var(--navyblue);
