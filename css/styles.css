@@ -134,7 +134,7 @@
 
 } */
 
-.add.contact-info.info {
+.add.contact-info {
     color: var(--navcolor);
     font-weight: 500;
     font-size: 16px;
@@ -145,7 +145,7 @@
     text-decoration: none;
 }
 
-/* .info {
+.info {
     color: var(--navcolor);
     font-weight: 500;
     font-size: 16px;
@@ -154,7 +154,7 @@
     font-family: inherit;
     font-style: normal;
     text-decoration: none;
-} */
+}
 
 .bg-sectionone {
     background-color: var(--navyblue);
