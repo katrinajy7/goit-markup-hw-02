@@ -144,6 +144,17 @@
     text-decoration: none;
 }
 
+.info {
+    color: var(--navcolor);
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    font-family: inherit;
+    font-style: normal;
+    text-decoration: none;
+}
+
 .bg-sectionone {
     background-color: var(--navyblue);
 }
@@ -205,7 +216,12 @@
 
 } */
 
-.lists{
+
+.pages.currentoption {
+    text-decoration: none;
+}
+
+.pages {
     text-decoration: none;
 }
 
@@ -215,12 +231,14 @@
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
+    tex
 }
-.list.disclist {
+.list.desclist {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
+    text-decoration: none;
 }
 
 .sectiontitle {
@@ -263,20 +281,19 @@
     letter-spacing: 0.02em;
 }
 
-.pictures{
+.pictures {
     text-decoration: none;
 }
 
 .pictures.parentlist{
     color: var(--navyblue);
-    font-family: Roboto;
+    font-family: "Roboto", sans-serif;
     font-size: 20px;
     font-style: normal;
     font-weight: 500;
     line-height: 24px;
     letter-spacing: 0.4px;
     text-decoration: none;
-    font-family: 'Roboto';
 }
 
 .pictures.childlist{
