@@ -12,6 +12,7 @@
 
 .link-logo {
     color: var(--iriscolor);
+    text-decoration: none;
     font-family: "Raleway", sans-serif;
     font-size: 18px;
     line-height: 1.17;
@@ -20,8 +21,8 @@
     text-transform:uppercase;
 }
 
-.link-logo {
-    text-decoration: none;
+.nav {
+    list-style: none;
 }
 /* .link-logo {
    color: var(--iriscolor);
