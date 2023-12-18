@@ -29,6 +29,11 @@
    text-decoration: none;
 } */
 
+body {
+    font-family: 'Roboto', sans-serif;
+    color: #434455;
+    background-color: #FFFFFF;
+}
 .studio-logo {
     color: var(--navyblue);
     font-weight: 800;
@@ -37,10 +42,11 @@
     font-family: "Raleway", sans-serif;
     font-size: 18px;
     line-height: 1.17;
-    font-weight: 800;
     letter-spacing: 0.03em;
 }
-
+.link {
+    text-decoration: none;
+}
 .link-logos {
     color: var(--iriscolor);
     text-decoration: none;
@@ -51,18 +57,6 @@
     letter-spacing: 0.03em;
     text-transform: uppercase;
 }
-
-.link-logos {
-    color: var(--iriscolor);
-    text-decoration: none;
-    font-family: "Raleway", sans-serif;
-    font-size: 18px;
-    line-height: 1.17;
-    font-weight: 800;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
-
-}   
 
 .studio-logos {
     color: #f4f4fd;
