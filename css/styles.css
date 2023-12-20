@@ -10,15 +10,14 @@
     --ghostwhite: #f4f4fd;
 }
 
-.navbar.link-logo {
-    color: var(--iriscolor);
-    text-decoration: none;  
+.link-logo {
     font-family: "Raleway", sans-serif;
+    font-weight: 800;
     font-size: 18px;
     line-height: 1.17;
-    font-weight: 800;
     letter-spacing: 0.03em;
     text-transform:uppercase;
+    color: var(--iriscolor);
 }
 
 
