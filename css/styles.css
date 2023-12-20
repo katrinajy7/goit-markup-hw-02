@@ -10,7 +10,7 @@
     --ghostwhite: #f4f4fd;
 }
 
-.link-logo {
+.navbar.link-logo {
     color: var(--iriscolor);
     text-decoration: none;  
     font-family: "Raleway", sans-serif;
