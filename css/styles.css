@@ -21,6 +21,7 @@
     text-transform:uppercase;
 }
 
+
 /* .headcon {
     display: flex;
 } */
@@ -95,16 +96,6 @@ body {
     color: #434455;
     background-color: #FFFFFF;
 }
-.studio-logo {
-    color: var(--navyblue);
-    font-weight: 800;
-    text-transform: uppercase;
-    text-decoration: none;
-    font-family: "Raleway", sans-serif;
-    font-size: 18px;
-    line-height: 1.17;
-    letter-spacing: 0.03em;
-}
 
 .sectionone bg-sectionone {
     background-color: var(--navyblue);
@@ -113,15 +104,6 @@ body {
     max-width: 1440px;
 }
 
-.section-header {
-    font-size: 56px;
-    line-height: 1.07;
-    text-align: center;
-    letter-spacing: 0.02em;
-    color: #ffffff;
-    max-width: 496px;
-    margin: 0 auto 48px;
-}
 
 
 /* .navbar.lists.pages {
