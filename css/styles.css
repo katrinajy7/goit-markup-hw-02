@@ -44,11 +44,11 @@ body {
     color: #2e2f42;
 }
 
-.nav-link {
+.navi-link {
     text-decoration: none;
 }
 
-.nav-link {
+.active link-style {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
