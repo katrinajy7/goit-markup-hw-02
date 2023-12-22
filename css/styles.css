@@ -74,9 +74,7 @@ body {
     letter-spacing: 0.02em;
 }
 
-.adrress-list {
-    color: var(--navcolor);
-}
+
 .address-list {
     font-style: normal;
     line-height: 1.5;
