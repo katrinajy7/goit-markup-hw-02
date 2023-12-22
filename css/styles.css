@@ -37,6 +37,9 @@ body {
     color: var(--iriscolor);
 }
 
+.logo-nav {
+    text-decoration: none;
+}
 .inside-logo{
     color: #2e2f42;
 }
