@@ -53,7 +53,7 @@ body {
     list-style: none;
 }
 
-.navi-list {
+.list.navi-list {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -61,7 +61,7 @@ body {
     color: #2e2f42;
 }
 
-.navi-list {
+.list.navi-list {
     text-decoration: none;
 }
 
@@ -78,11 +78,11 @@ body {
     letter-spacing: 0.02em;
 } */
 
-.navi-list {
+.list.navi-list {
     text-decoration: none;
 }
 
-.navi-list:hover {
+.list.navi-list:hover {
     color: #404bbf;
 }
 
@@ -92,10 +92,10 @@ body {
     
 }
 
-.list {
+/* .list {
     list-style: none;
     text-decoration: none;
-}
+} */
 .address-style {
     font-style: normal;
     line-height: 1.5;
