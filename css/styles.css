@@ -10,11 +10,11 @@
     --ghostwhite: #f4f4fd;
 }
 
-* {
+/* * {
     box-sizing: border-box;
     margin: 0;
     padding: 0;
-}
+} */
 
 body {
     font-family: 'Roboto', sans-serif;
@@ -60,7 +60,9 @@ body {
     color: #2e2f42;
 }
 
-
+/* .list-link {
+    list-style: none;
+} */
 
 
 /* .link-style {
@@ -84,6 +86,11 @@ body {
 
     
 }
+
+.list {
+    list-style: none;
+    text-decoration: none;
+}
 .address-style {
     font-style: normal;
     line-height: 1.5;
@@ -91,11 +98,18 @@ body {
 }
 
 
-.address-list {
+.address-style {
     font-style: normal;
-    line-height: 1.5;
-    color:#434455;
 }
+.adrress-list {
+    list-style: none;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: var(--navcolor);
+}
+
+
 .address-list {
     text-decoration: none;
 }
