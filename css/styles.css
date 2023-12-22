@@ -56,9 +56,11 @@ body {
     color: #2e2f42;
     line-height: 1.5 ;
     letter-spacing: 0.02em;
-    text-decoration: none;
 }
 
+.link-style{
+    text-decoration: none;
+}
 .link-style:hover {
     color: #404bbf;
 }
