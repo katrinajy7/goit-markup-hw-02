@@ -23,7 +23,7 @@ body {
 }
 
 
-.nav-logo {
+.logo-nav {
     font-family: 'Raleway', sans-serif;
     font-weight: 800;
     font-size: 18px;
@@ -33,18 +33,15 @@ body {
     color: var(--iriscolor);
 }
 
+.inside-logo{
+    color: #2e2f42;
+}
+
 .link {
     text-decoration: none;
 }
 
-/* .headcon {
-    display: flex;
-} */
 
-
-.span {
-    color:#2e2f42;
-}
 
 .list {
     list-style: none;
