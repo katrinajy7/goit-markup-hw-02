@@ -46,7 +46,6 @@ body {
 .list {
     list-style: none;
     font-style: normal;
-    gap:40px;
 }
 
 
@@ -56,8 +55,6 @@ body {
     color: #2e2f42;
     line-height: 1.5 ;
     letter-spacing: 0.02em;
-    padding: 24px 0 24px;
-    list-style: none;
 }
 
 .nav-link-list:hover {
