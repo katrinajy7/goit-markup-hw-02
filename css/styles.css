@@ -54,10 +54,6 @@ body {
     color: #2e2f42;
 }
 
-.list {
-    text-decoration: none;
-}
-
 /* .link-style {
     font-weight: 500;
     font-size: 16px;
@@ -66,9 +62,10 @@ body {
     letter-spacing: 0.02em;
 } */
 
-/* .link-style{
+.link-style {
     text-decoration: none;
-} */
+}
+
 .link-style:hover {
     color: #404bbf;
 }
