@@ -65,6 +65,8 @@ body {
 
 .link-style:focus {
     color: #404bff;
+
+    
 }
 .address-style {
     font-style: normal;
@@ -72,6 +74,9 @@ body {
     letter-spacing: 0.02em;
 }
 
+.adrress-list {
+    color: var(--navcolor);
+}
 .address-list {
     font-style: normal;
     line-height: 1.5;
