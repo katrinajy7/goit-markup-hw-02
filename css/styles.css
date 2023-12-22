@@ -22,7 +22,11 @@ body {
     background-color: #ffffff;
 }
 
+.list-style {
+    list-style: none;
+    text-decoration: none;
 
+}
 .logo-nav {
     font-family: 'Raleway', sans-serif;
     font-weight: 800;
@@ -42,25 +46,29 @@ body {
 }
 
 
+.active link-style {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
 
 .list {
-    list-style: none;
-    font-style: normal;
     text-decoration: none;
 }
 
-
-.link-style {
+/* .link-style {
     font-weight: 500;
     font-size: 16px;
     color: #2e2f42;
     line-height: 1.5 ;
     letter-spacing: 0.02em;
-}
+} */
 
-.link-style{
+/* .link-style{
     text-decoration: none;
-}
+} */
 .link-style:hover {
     color: #404bbf;
 }
