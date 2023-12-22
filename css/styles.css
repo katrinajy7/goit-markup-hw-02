@@ -92,7 +92,9 @@ body {
     line-height: 1.5;
     color:#434455;
 }
-
+.address-list {
+    text-decoration: none;
+}
 .address-list:hover {
     color:#404bbf;
 }
