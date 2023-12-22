@@ -86,7 +86,7 @@ body {
     color: #404bbf;
 }
 
-.navi-list:focus {
+.list.navi-list:focus {
     color: #404bff;
 
     
