@@ -45,10 +45,10 @@ body {
 }
 
 .navi-style {
-    text-decoration: none;
+    list-style: none;
 }
 
-.navi-style {
+.navi-style.link-style {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
