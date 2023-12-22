@@ -38,6 +38,9 @@ body {
 
 }
 
+.nav-logo {
+    list-style: none;
+}
 
 /* .headcon {
     display: flex;
@@ -68,7 +71,6 @@ body {
     padding: 24px 0 24px;
     list-style: none;
 }
-
 
 .nav-link-list:hover {
     color: #404bbf;
