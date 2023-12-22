@@ -49,7 +49,7 @@ body {
     list-style: none;
 } */
 
-.nav-list {
+.nav-style {
     list-style: none;
 }
 
@@ -59,6 +59,10 @@ body {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2e2f42;
+}
+
+.nav-list {
+    text-decoration: none;
 }
 
 /* .list-link {
