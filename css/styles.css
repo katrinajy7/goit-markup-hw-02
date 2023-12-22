@@ -64,13 +64,17 @@ body {
 .link-style:focus {
     color: #404bff;
 }
-.address {
+.address-style {
     font-style: normal;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    text-decoration: none;
+
 }
 
 .address-list {
+    font-style: normal;
     line-height: 1.5;
-    letter-spacing: 0.02em;
     color:#434455;
 }
 
