@@ -44,19 +44,21 @@ body {
     color: #2e2f42;
 }
 
-.navi-style {
+/* .navi-style {
+    list-style: none;
+} */
+
+.list {
     list-style: none;
 }
 
-.active link-style {
+.list {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-
-
 
 
 /* .link-style {
