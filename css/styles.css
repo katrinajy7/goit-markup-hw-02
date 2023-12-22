@@ -22,9 +22,6 @@ body {
     background-color: #ffffff;
 }
 
-.h-shadow {
-    box-shadow: 0px;
-}
 
 .nav-logo {
     font-family: 'Raleway', sans-serif;
@@ -34,12 +31,11 @@ body {
     letter-spacing: 0.03em;
     text-transform:uppercase;
     color: var(--iriscolor);
-    text-decoration: none;
-
 }
 
-.nav {
+.link {
     list-style: none;
+    text-decoration: none;
 }
 
 /* .headcon {
