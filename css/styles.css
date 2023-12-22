@@ -48,11 +48,11 @@ body {
     list-style: none;
 } */
 
-.list {
+.list-link {
     list-style: none;
 }
 
-.link-style {
+.link-list {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -71,15 +71,15 @@ body {
     letter-spacing: 0.02em;
 } */
 
-.link-style {
+.link-list {
     text-decoration: none;
 }
 
-.link-style:hover {
+.link-list:hover {
     color: #404bbf;
 }
 
-.link-style:focus {
+.link-list:focus {
     color: #404bff;
 
     
