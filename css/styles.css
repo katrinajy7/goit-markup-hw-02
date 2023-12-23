@@ -16,17 +16,6 @@
     padding: 0;
 } */
 
-body {
-    font-family: 'Roboto', sans-serif;
-    color: #434455;
-    background-color: #ffffff;
-}
-
-.list-style {
-    list-style: none;
-    text-decoration: none;
-
-}
 .logo-nav {
     font-family: 'Raleway', sans-serif;
     font-weight: 800;
@@ -65,6 +54,12 @@ body {
     text-decoration: none;
 }
 
+body {
+    font-family: 'Roboto', sans-serif;
+    color: #434455;
+    background-color: #ffffff;
+}
+
 /* .list-link {
     list-style: none;
 } */
@@ -87,11 +82,14 @@ body {
 }
 
 .list.navi-list:focus {
-    color: #404bff;
-
-    
+    color: #404bff; 
 }
 
+.list-style {
+    list-style: none;
+    text-decoration: none;
+
+}
 /* .list {
     list-style: none;
     text-decoration: none;
