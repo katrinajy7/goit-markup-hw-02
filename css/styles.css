@@ -50,6 +50,17 @@
     color: #404bff;
 }
 
+.active link-style:hover,
+.link-style:focus,
+.active link-style,
+.contacts-color:hover,
+.contacts-color:focus {
+    color: #404bbf;
+}
+
+.contacts-color {
+    color: #434455;
+}
 .address-style {
     font-style: normal;
     line-height: 1.5;
@@ -60,11 +71,12 @@
     list-style: none;
 }
 
-.contacts-color {
-    color: #434455;
-}
 
-.contacts-color:hover {
+/* /* .contacts-color {
+    color: #434455;
+} */
+
+/* .contacts-color:hover {
     color: #404bbf;
 }
 
@@ -74,7 +86,7 @@
 
 .contacts-color:active {
     color: #404bff;
-}
+} */ */
 
 body {
     font-family: 'Roboto', sans-serif;
