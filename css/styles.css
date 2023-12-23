@@ -46,6 +46,9 @@
     color: #404bbf;
 }
 
+.link-style:hover {
+    color: #404bff; 
+}
 .link-style:focus {
     color: #404bff;
 }
