@@ -71,8 +71,8 @@
     list-style: none;
 }
 
-.list:hover,
-.list:focus {
+.list-style:hover,
+.list-style:focus {
     color: #404bbf; 
 }
 
