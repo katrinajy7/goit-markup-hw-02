@@ -34,18 +34,18 @@
     color: #2e2f42;
 }
 
-.menu-list {
+.list {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #2e2f42;
+    color:  #434455;
 }
 
-.menu-list.link-style:hover {
+.link-style:hover {
     color: #404bff; 
 }
-.menu-list.link-style:focus {
+.link-style:focus {
     color: #404bff;
 }
 
@@ -69,7 +69,6 @@
 .list {
     list-style: none;
 }
-
 
 /* /* .contacts-color {
     color: #434455;
