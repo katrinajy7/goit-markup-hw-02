@@ -94,7 +94,7 @@ body {
     background-color: var(--navyblue);
 }
   
-/* .one-title {
+.one-title {
     color: var(--whitecolor);
     background-color: #4d5ae5;
     font-size: 56px;
@@ -103,7 +103,7 @@ body {
     text-align: center;
     letter-spacing: 0.02em;
     font-family: "Roboto", sans-serif;
-} */
+} 
 
 /* .btn {
     cursor: pointer;
