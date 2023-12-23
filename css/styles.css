@@ -50,9 +50,11 @@
     color: #404bff;
 }
 
-.active link-style:hover,
-.link-style:focus,
-.active link-style,
+.active link-style:hover {
+    color: #404bbf; 
+}
+
+
 .contacts-color:hover,
 .contacts-color:focus {
     color: #404bbf;
