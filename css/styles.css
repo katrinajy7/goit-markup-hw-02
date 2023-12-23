@@ -42,11 +42,11 @@
     color: #2e2f42;
 }
 
-.list:hover {
+.link-style:hover {
     color: #404bbf; 
 }
 
-.list:focus {
+.link-style:focus {
     color: #404bff;
 }
 
