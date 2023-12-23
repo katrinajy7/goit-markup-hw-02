@@ -58,6 +58,10 @@
     color: #404bbf;
 }
 
+.link-style:focus {
+    color: #404bbf;
+}
+
 .contacts-color {
     color: #434455;
 }
