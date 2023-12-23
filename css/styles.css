@@ -43,10 +43,10 @@
 }
 
 
-.link-style:hover {
+.list:hover {
     color: #404bff; 
 }
-.link-style:focus {
+.list:focus {
     color: #404bff;
 }
 
