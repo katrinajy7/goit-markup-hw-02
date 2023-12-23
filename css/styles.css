@@ -34,7 +34,7 @@
     color: #2e2f42;
 }
 
-.link-style {
+.menu-list {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -42,10 +42,10 @@
     color: #2e2f42;
 }
 
-.link-list.link-style:hover {
+.link-style:hover {
     color: #404bff; 
 }
-.link-list.link-style:focus {
+.link-style:focus {
     color: #404bff;
 }
 
