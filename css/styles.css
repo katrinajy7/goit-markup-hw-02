@@ -71,10 +71,6 @@
     list-style: none;
 }
 
-.list-style:hover,
-.list-style:focus {
-    color: #404bbf; 
-}
 
 /* /* .contacts-color {
     color: #434455;
