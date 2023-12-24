@@ -198,6 +198,9 @@ body {
     letter-spacing: 0.02em;
 }
 
+.footerinside-logo {
+    color: #f4f4fd;
+}
 /* .btn.filter {
     background-color: var(--whitecolor);
     color: var(--navyblue);
