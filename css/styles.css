@@ -263,10 +263,10 @@ body {
     color: #FFFFFF;
 }
 
-.btn-filter-primary:hover {
+.pbutton:hover {
     background-color: #404BBF ;
 }
 
-.btn-filter-primary:focus {
+.pbutton:focus {
     background-color: #404BBF;
 }
