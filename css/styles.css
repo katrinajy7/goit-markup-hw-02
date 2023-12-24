@@ -124,6 +124,24 @@ body {
     cursor: pointer;
 }
 
+/*sectin 2*/
+
+.titlelist {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42; 
+}
+
+.desclist {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+
 /* .btn.filter {
     background-color: var(--whitecolor);
     color: var(--navyblue);
