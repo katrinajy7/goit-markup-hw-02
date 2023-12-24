@@ -141,7 +141,16 @@ body {
     color: #434455;
 }
 
+/* section 3 */
 
+.sectiontitle {
+    font-size: 30px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+}
 /* .btn.filter {
     background-color: var(--whitecolor);
     color: var(--navyblue);
