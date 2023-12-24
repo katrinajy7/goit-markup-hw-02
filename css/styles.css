@@ -90,19 +90,19 @@ body {
     color:#404bbf;
 } 
 
+/*section 1 class */
+
 .bg-sectionone {
     background-color: var(--navyblue);
 }
   
 .one-title {
-    color: var(--whitecolor);
-    background-color: #4d5ae5;
+    color: var(--whitecolor); 
     font-size: 56px;
-    font-weight: 800;
     line-height: 1.07;
     text-align: center;
     letter-spacing: 0.02em;
-    font-family: "Roboto", sans-serif;
+    color: #ffffff; 
 } 
 
 /* .btn {
