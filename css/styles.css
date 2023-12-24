@@ -152,8 +152,12 @@ body {
     color: #2e2f42;
 }
 
+
+.pictures {
+        background-color: #F4F4FD;
+}
+
 .section-four {
-    background-color: #F4F4FD;
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
