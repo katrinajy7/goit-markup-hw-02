@@ -256,7 +256,7 @@ body {
    background-color: #FFFFFF; 
 } */
 
-.section-p.button:hover {
+.button:hover {
     background-color: #FFFFFF;
 }
 .button:focus {
