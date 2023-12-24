@@ -178,6 +178,12 @@ body {
     background-color: #FFFFFF;
 }
 
+.position {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
 /* .btn.filter {
     background-color: var(--whitecolor);
     color: var(--navyblue);
