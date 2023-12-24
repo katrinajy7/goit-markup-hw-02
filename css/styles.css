@@ -201,115 +201,27 @@ body {
 .footerinside-logo {
     color: #f4f4fd;
 }
-/* .btn.filter {
-    background-color: var(--whitecolor);
-    color: var(--navyblue);
+
+/* porfolio */
+.lists-p {
+    list-style: none;
+}
+
+.list-p {
+    font-family: 'Roboto', sans-serif;
     font-weight: 500;
-    font-size: 16px;
-    line-height: 1.62;
-    padding: 10px;   
-} */
-
-/* .btn.filter:hover,
-.btn.filter:focus,
-.btn.filter.primary{
-    background-color: var(--oceancolor);
-    color: var(--whitecolor);
-} */
-
-/* .desclist.titlelist {
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    color: var(--slatecolor);
-
-} */
-
-
-/* .pages.currentoption {
-    text-decoration: none;
-} */
-
-/* .pages {
-    text-decoration: none;
-} */
-
-/* .criteria-list.titlelist {
-    font-size: 20px;
-    font-weight: 500;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    color: #2e2f42;
-} */
-/* .list.desclist {
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #434455;
-    text-decoration: none;
-} */
+    letter-spacing: 0.04em;
+    color: #4d5ae5;
+    background-color: #F4F4FD;
+    cursor: pointer;
+}
 
-/* .sectiontitle {
-    text-align: center;
-    color: var(--navyblue);
-    font-size:36px;
-    font-weight: 700;
-    line-height: 1.11;
-    letter-spacing: 0.02em;
-    text-transform: capitalize;
-    background-color: #FFFFFF; 
-    
-} */
+.button:hover {
+    background-color: #404BBF;
+}
 
-/* .teamname {
-    color: var(--navyblue);
-    font-weight: 500;
-    font-size: 20px;
-    letter-spacing: 0.02em;
-    background-color: #FFFFFF;
-} */
-
-/* .position{
-    color: var(--slatecolor);
-    font-size: 16px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: 24px;
-    letter-spacing: 0.32px;
-} */
-
-/* .footerbg {
-    background-color: var(--navyblue);
-} */
-
-/* .lastword {
-    color:#f4f4fd;
-    font-family: "Roboto";
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-} */
-
-/* .pictures {
-    text-decoration: none;
-} */
-
-/* .pictures.parentlist{
-    color: var(--navyblue);
-    font-family: "Roboto", sans-serif;
-    font-size: 20px;
-    font-style: normal;
-    font-weight: 500;
-    line-height: 24px;
-    letter-spacing: 0.4px;
-    text-decoration: none;
-} */
-
-/* .pictures.childlist{
-    color: var(--slatecolor);
-    font-family: Roboto;
-    font-size: 16px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: 24px;
-    letter-spacing: 0.32px;
-} */
+.button:focus {
+    background-color: #404BBF;
+}
