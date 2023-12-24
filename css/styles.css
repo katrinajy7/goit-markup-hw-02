@@ -205,7 +205,9 @@ body {
 /* porfolio */
 
 
-
+.list-p {
+    list-style: none;
+}
    
 .button {
     font-family: 'Roboto', sans-serif;
