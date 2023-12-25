@@ -273,13 +273,13 @@ body {
 .apbutton {
     cursor: pointer;
 }
-.apbutton:hover {
+/* .apbutton:hover {
     color:#FFFFFF;
 }
 
 .apbutton:focus {
     color: #FFFFFF;
-}
+} */
 
 .apbutton:hover {
     background-color:#404BBF;
