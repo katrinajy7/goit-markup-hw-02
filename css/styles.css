@@ -288,3 +288,15 @@ body {
 .apbutton:focus {
    background-color:#404BBF ; 
 }
+
+.apbutton {
+    cursor: pointer;
+}
+
+.pbutton:hover {
+    color: #FFFFFF;
+}
+
+.pbutton:focus {
+    color: #FFFFFF;
+}
