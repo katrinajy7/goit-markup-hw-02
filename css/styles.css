@@ -10,11 +10,11 @@
     --ghostwhite: #f4f4fd;
 }
 
-/* * {
+* {
     box-sizing: border-box;
     margin: 0;
     padding: 0;
-} */
+}
 
 .logo-nav {
     font-family: 'Raleway', sans-serif;
