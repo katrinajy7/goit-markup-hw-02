@@ -265,10 +265,15 @@ body {
     color: #434455;
 }
 
-.list-p {
+/* .list-p {
     text-decoration: none;
 }
 
 list-ptwo {
     text-decoration: none;
+} */
+
+.listlist {
+    text-decoration: none;
+    list-style: none;
 }
