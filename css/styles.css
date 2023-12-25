@@ -214,6 +214,7 @@ body {
     letter-spacing: 0.04em;
     color: #4d5ae5;
     background-color: #F4F4FD;
+    cursor: pointer;
 }
 
 .button {
@@ -224,6 +225,7 @@ body {
     letter-spacing: 0.04em;
     color: #4d5ae5;
     color:#F4F4FD;
+    cursor: pointer;
 }
    
 /* .pbutton {
@@ -270,20 +272,14 @@ body {
     color: #FFFFFF;
 } */
 
-.apbutton {
-    cursor: pointer;
-}
 
-.button {
-    cursor: pointer;
-}
-/* .apbutton:hover {
+.apbutton:hover {
     color:#FFFFFF;
 }
 
 .apbutton:focus {
     color: #FFFFFF;
-} */
+}
 
 .apbutton:hover {
     background-color:#404BBF;
@@ -293,9 +289,7 @@ body {
    background-color:#404BBF ; 
 }
 
-.apbutton {
-    cursor: pointer;
-}
+
 /* 
 .button:hover {
     background-color: #404BBF;
