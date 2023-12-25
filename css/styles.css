@@ -300,3 +300,7 @@ body {
 .pbutton:focus {
     color: #FFFFFF;
 }
+
+.pbutton {
+    cursor: pointer;
+}
