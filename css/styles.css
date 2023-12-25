@@ -206,16 +206,7 @@ body {
 
 
  
-.apbutton {
-    font-family: 'Roboto', sans-serif;
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.04em;
-    color: #4d5ae5;
-    background-color: #F4F4FD;
-    cursor: pointer;
-}
+
 
 .button {
     font-family: 'Roboto', sans-serif;
@@ -226,6 +217,33 @@ body {
     color: #4d5ae5;
     color:#F4F4FD;
     cursor: pointer;
+}
+
+.pbutton {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #4d5ae5;
+    background-color: #F4F4FD;
+    cursor: pointer;
+}
+
+.button:hover {
+    color: #FFFFFF;
+}
+
+.button:focus {
+    color: #FFFFFF;
+}
+
+.button:hover {
+    background-color: #404BBF;
+}
+
+.button:focus {
+    background-color: #404BBF;
 }
    
 /* .pbutton {
@@ -272,7 +290,7 @@ body {
     color: #FFFFFF;
 } */
 
-
+/* 
 .apbutton:hover {
     color:#FFFFFF;
 }
@@ -304,4 +322,4 @@ body {
 .button:focus {
     background-color: #404BBF;
 }
-
+ */
