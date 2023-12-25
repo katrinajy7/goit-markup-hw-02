@@ -293,15 +293,16 @@ body {
     cursor: pointer;
 }
 
-.pbutton:hover {
-    color: #FFFFFF;
+.button:hover {
+    background-color: #404BBF;
 }
 
-.pbutton:focus {
-    color: #FFFFFF;
+.button:focus {
+    background-color: #404BBF;
 }
 
-.pbutton {
+
+.button {
     cursor: pointer;
 }
 
