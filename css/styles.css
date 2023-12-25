@@ -304,3 +304,11 @@ body {
 .pbutton {
     cursor: pointer;
 }
+
+.pbutton:hover {
+    background-color: #404BBF;
+}
+
+.pbutton:focus {
+    background-color: #404BBF;
+}
