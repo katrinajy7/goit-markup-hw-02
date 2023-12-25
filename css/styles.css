@@ -273,6 +273,10 @@ body {
 .apbutton {
     cursor: pointer;
 }
+
+.button {
+    cursor: pointer;
+}
 /* .apbutton:hover {
     color:#FFFFFF;
 }
