@@ -289,8 +289,14 @@ body {
    background-color:#404BBF ; 
 }
 
+.button:hover {
+    color: #FFFFFF;
+}
 
-/* 
+.button:focus {
+    color: #FFFFFF;
+}
+
 .button:hover {
     background-color: #404BBF;
 }
@@ -299,15 +305,3 @@ body {
     background-color: #404BBF;
 }
 
-
-.button {
-    cursor: pointer;
-} */
-
-/* .pbutton:hover {
-    background-color: #404BBF;
-}
-
-.pbutton:focus {
-    background-color: #404BBF;
-} */
