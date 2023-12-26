@@ -10,12 +10,6 @@
     --ghostwhite: #f4f4fd;
 }
 
-* {
-    box-sizing:none;
-    margin: 0;
-    padding: 0;
-}
-
 .logo-nav {
     font-family: 'Raleway', sans-serif;
     font-weight: 800;
@@ -179,7 +173,7 @@ body {
     background-color: #FFFFFF;
 }
 
-.position {
+.description {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
